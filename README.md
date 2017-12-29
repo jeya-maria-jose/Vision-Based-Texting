@@ -5,19 +5,19 @@ The task of typing using the gestures from the eye like left, right, centre, bli
 #Hardware steup:
 
 <p align="center">
-  <img src="https://github.com/jeya-maria-jose/Vision-Based-Texting_usingNN/blob/master/images/Untitled.png" width="300"/>
+  <img src="images/Untitled.png" width="300"/>
 </p>
 
 #Algorithm:
 
 <p align="center">
-  <img src="https://github.com/jeya-maria-jose/Vision-Based-Texting_usingNN/blob/master/images/bbea24e7-8175-452d-8e8f-e734a427dba6.jfif" width="350"/>
+  <img src="images/bbea24e7-8175-452d-8e8f-e734a427dba6.jfif" width="350"/>
 </p>
 
 #Final GUI Window:
 
 <p align="center">
-  <img src="https://github.com/jeya-maria-jose/Vision-Based-Texting_usingNN/blob/master/images/be77002c-f65e-4e7b-a1cc-648dd29f813b.jfif" width="350"/>
+  <img src="images/be77002c-f65e-4e7b-a1cc-648dd29f813b.jfif" width="350"/>
 </p>
 
 
