@@ -22,6 +22,13 @@ The task of typing using the gestures from the eye like left, right, centre, bli
   <img src="images/be77002c-f65e-4e7b-a1cc-648dd29f813b.jfif" width="350"/>
 </p>
 
+Mentions:
+
+This project got selected as 
+
+1. One of the seven finalists in Sangam 2017 , as a part of Pragyan 2017, the annual technical festival of NIT Trichy.
+
+2. Quater Finals, TIIDC 2017-2018 ( Ongoing )
 
 
 
