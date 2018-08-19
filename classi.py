@@ -8,7 +8,7 @@ def relu(Z):
 
     A=np.log(1+np.exp(Z))
     return A
-
+#loading stored weights
 W1=np.load('/home/jose/Desktop/W1.npy')
 W2=np.load('/home/jose/Desktop/W2.npy')
 W3=np.load('/home/jose/Desktop/W3.npy')
